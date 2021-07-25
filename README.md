@@ -1,7 +1,7 @@
 # Car Line Follower
 
 
-![2021-07-25 12 14 54](https://user-images.githubusercontent.com/66702376/126894056-89dda01d-64aa-4297-ad57-27f07103d9aa.jpg)
+
 
 
 ## Description
